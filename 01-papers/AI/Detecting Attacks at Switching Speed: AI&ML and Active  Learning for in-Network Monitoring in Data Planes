@@ -1,1 +1,16 @@
+## Method
+This paper Introduces HALIDS a hybrid IDS that focuses in two parts of detections:
+  In-switch ML learning model who is fast but simple
+  Oracle ML model who is more powerful for better detection in case of a low confidence level
 
+## Limitations
+  No distributed learning
+  No deep complex attacks
+  only one controller
+  No mitigation
+
+## My thoughts
+  Maybe combine with federated learning and distributing the work across switches 
+  Maybe aslo use a more heavy model in the oracle controller
+  Do mitigation 
+  Base the confidence depending on how heavy or busy the network
