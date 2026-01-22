@@ -9,4 +9,10 @@ I started my PhD three weeks ago; Starting to log my progress from today.
 ## 26-11-2025
 - Focused on the limitations and research directions of Detecting Attacks at Switching Speed: AI/ML and Active  Learning for in-Network Monitoring in Data Planes"
 - Prepared my weekly presentation of this paper as well
+
+- Had a lot to log : didnt save it :(
+- Anyhow it's never too late
+
+## 22-01-2026
+- Read "Fast traffic processing in multi-tenant 5G environments: A comparative performance evaluation of P4 and eBPF technologies"
 - 
