@@ -15,4 +15,10 @@ I started my PhD three weeks ago; Starting to log my progress from today.
 ## 22-01-2026
 - Start Reading "Fast traffic processing in multi-tenant 5G environments: A comparative performance evaluation of P4 and eBPF technologies"
 - Undertood P4, Difference between ASIC and FPGA, eBPF, its flow and how does it work and process packets
+
+## 23-01-2026
+- Continue Analyzing the paper "Fast traffic processing in multi-tenant 5G environments: A comparative performance evaluation of P4 and eBPF technologies"
+- Understood more eBPF technology
+
+## 24-01-2026
 - 
