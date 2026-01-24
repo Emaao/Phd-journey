@@ -19,6 +19,11 @@ I started my PhD three weeks ago; Starting to log my progress from today.
 ## 23-01-2026
 - Continue Analyzing the paper "Fast traffic processing in multi-tenant 5G environments: A comparative performance evaluation of P4 and eBPF technologies"
 - Understood more eBPF technology
+- More Cybersec reminders in Roadmap
 
 ## 24-01-2026
-- 
+- Finished "Fast traffic processing in multi-tenant 5G environments: A comparative performance evaluation of P4 and eBPF technologies"
+- Started reading and analysing "A Review of P4 Programmable Data Planes for Network Security"
+- More Cybersec reminders in Roadmap
+
+## 25-01-2026
