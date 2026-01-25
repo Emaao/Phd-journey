@@ -27,3 +27,7 @@ I started my PhD three weeks ago; Starting to log my progress from today.
 - More Cybersec reminders in Roadmap
 
 ## 25-01-2026
+- Finished "A Review of P4 Programmable Data Planes for Network Security" and logged it in Excel
+- Understood more P4 Architecture(compiler, program, overflow)
+- Finished "An Exhaustive Survey on P4 Programmable Data Plane Switches: Taxonomy, Applications, Challenges, and Future Trends"
+- Started "A survey on security applications with SmartNICs: Taxonomy, implementations, challenges, and future trends"
