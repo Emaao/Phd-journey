@@ -38,3 +38,8 @@ I started my PhD three weeks ago; Starting to log my progress from today.
 - Understood Switches with chips versus NICs with chips
 
 ## 27-01-2026
+- Finished "A survey on security applications with SmartNICs: Taxonomy, implementations, challenges, and future trends"
+- Understood ARM cores in terms of integration with our architecture
+- Prepared the presentation of the paper "A Review of P4 Programmable Data Planes for Network Security" for the tomorrow
+
+## 28-01-2026
