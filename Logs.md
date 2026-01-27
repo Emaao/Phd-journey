@@ -31,3 +31,10 @@ I started my PhD three weeks ago; Starting to log my progress from today.
 - Understood more P4 Architecture(compiler, program, overflow)
 - Finished "An Exhaustive Survey on P4 Programmable Data Plane Switches: Taxonomy, Applications, Challenges, and Future Trends"
 - Started "A survey on security applications with SmartNICs: Taxonomy, implementations, challenges, and future trends"
+
+## 26-01-2026
+- Continued understanding "A survey on security applications with SmartNICs: Taxonomy, implementations, challenges, and future trends"
+- Understood How SmartNICs works
+- Understood Switches with chips versus NICs with chips
+
+## 27-01-2026
