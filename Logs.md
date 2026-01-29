@@ -42,4 +42,10 @@ I started my PhD three weeks ago; Starting to log my progress from today.
 - Understood ARM cores in terms of integration with our architecture
 - Prepared the presentation of the paper "A Review of P4 Programmable Data Planes for Network Security" for the tomorrow
 
-## 28-01-2026
+## 28-01-2026 : "Master P4"
+- Continued Preparing the presentation of the paper "A Review of P4 Programmable Data Planes for Network Security"
+- Started "A Hands-on Tutorial on P4 Programmable Data Planes" of the university of South Carolina
+
+## 29-01-2026
+- Started first PPT of the hands on here: https://research.cec.sc.edu/files/cyberinfra/files/day1-motivation-intro-data-plane-programmability.pdf
+- 
