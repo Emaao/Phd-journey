@@ -48,4 +48,14 @@ I started my PhD three weeks ago; Starting to log my progress from today.
 
 ## 29-01-2026
 - Started first PPT of the hands on here: https://research.cec.sc.edu/files/cyberinfra/files/day1-motivation-intro-data-plane-programmability.pdf
+
+## 30-01-2025
+- Meeting + Check
+
+## 02-02-2026
+- France Meeting
+- Started Reading "Deep Reinforcement Learning for In-Network Placement of ACL Rules Under Constraints"
+- Started Understanding Reinforcement Learning
+
+## 03-02-2026
 - 
